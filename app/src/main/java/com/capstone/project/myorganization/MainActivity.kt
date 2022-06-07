@@ -14,8 +14,8 @@ class MainActivity : AppCompatActivity() {
 //    branch2 commit2
 //    branch2 commit3
 //    branch2 commit4
-//    branch2 commit4
-//    branch2 commit4
+//    branch2 commit5
+//    branch2 commit6
 }
 //test push
 //test branch
