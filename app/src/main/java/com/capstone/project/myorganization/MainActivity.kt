@@ -19,6 +19,8 @@ class MainActivity : AppCompatActivity() {
 //    branch2 commit7
 //    branch2 commit8
 }
+
+//test setelah rename
 //test push
 //test branch
 
